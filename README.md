@@ -1,6 +1,7 @@
+<div align="center">
+  
 ## ✨ Hello! I’m Alina! 🚀
 
----
 
 
 ## 🔨 Languages and Tools
@@ -18,3 +19,4 @@
 </p>
 
 ---
+</div>
