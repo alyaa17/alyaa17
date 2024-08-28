@@ -8,7 +8,7 @@
 </picture>
 
 
-### Skills
+## Languages and Tools
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="64" height="64" alt="Git" /></a>
