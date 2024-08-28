@@ -17,6 +17,7 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/numpy.png" width="64" height="64" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/pandas.png" width="64" height="64" alt="Pandas" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/seaborn.png" width="64" height="64" alt="Seaborn" /></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><i class="devicon-matplotlib-plain" style="font-size:64px"></i></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><i class="devicon-scikitlearn-plain" style="font-size:64px"></i></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64" alt="PostgreSQL" /></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/apache-spark.png" width="64" height="64" alt="PySpark" /></a>
