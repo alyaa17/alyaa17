@@ -1,4 +1,6 @@
-## ✨ Hey there! I’m Alina! 🚀
+## ✨ Hello! I’m Alina! 🚀
+
+---
 
 
 ## 🔨 Languages and Tools
@@ -15,3 +17,4 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
 </p>
 
+---
