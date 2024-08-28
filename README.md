@@ -15,8 +15,8 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/bash.png" width="64" height="64" alt="GNU Bash" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/numpy.png" width="64" height="64" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/pandas.png" width="64" height="64" alt="Pandas" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/seaborn.png" width="64" height="64" alt="Seaborn" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/100/000000/scikit-learn.png" width="64" height="64" alt="Scikit-Learn" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Seaborn-9B4F4F?style=flat-square&logo=seaborn&logoColor=white" width="64" height="64" alt="Seaborn" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="64" height="64" alt="Scikit-Learn" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64" alt="PostgreSQL" /></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/apache-spark.png" width="64" height="64" alt="PySpark" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
