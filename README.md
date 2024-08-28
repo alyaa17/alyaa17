@@ -1,4 +1,4 @@
-## 🌟 Hey there! I’m Alyaa! 🚀
+## ✨ Hey there! I’m Alina! 🚀
 
 
 ## 🔨 Languages and Tools
