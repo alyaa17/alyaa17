@@ -16,7 +16,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/bash.png" width="64" height="64" alt="GNU Bash" /></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/numpy.png" width="64" height="64" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/pandas.png" width="64" height="64" alt="Pandas" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACreated_with_Matplotlib-logo.svg&psig=AOvVaw0K6oCknrJ44hQmd830h7xs&ust=1724943549733000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjo7srN-ZeIAxVNMlkFHYy3C3wQjRx6BAgAEBg" width="64" height="64"></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="64" height="64"></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64" alt="PostgreSQL" /></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/docs/latest/api/python/index.html#" width="64" height="64" alt="PySpark" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
