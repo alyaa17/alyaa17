@@ -18,7 +18,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/pandas.png" width="64" height="64" alt="Pandas" /></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="64" height="64"></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64" alt="PostgreSQL" /></a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/docs/latest/api/python/index.html#" width="64" height="64" alt="PySpark" /></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" width="64" height="64" alt="PySpark" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
 </p>
 
