@@ -20,8 +20,9 @@
 
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=alyaa17&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-![Alyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyaa17&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api?username=alyaa17&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/alyaa17?template=classic&config.timezone=Europe%2FMoscow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyaa17&layout=compact&langs_count=6&hide_border=true)
+
 
 ---
 </div>
