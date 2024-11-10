@@ -7,7 +7,7 @@
 ## 🔨 Languages and Tools
 
 <div align="center">
-<p align="left">
+  <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="64" height="64" alt="Git" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/python.png" width="64" height="64" alt="Python" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/bash.png" width="64" height="64" alt="GNU Bash" /></a>
@@ -17,7 +17,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64" alt="PostgreSQL" /></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" width="64" height="64" alt="PySpark" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
-</p>
+  </p>
 </div>
 ---
 </div>
