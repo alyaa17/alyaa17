@@ -21,9 +21,7 @@
 
 ## 📊 Github Stats
 ![Stats Overview](https://raw.githubusercontent.com/alyaa17/github-stats-transparent/output/generated/overview.svg)
-![Overview]https://github.com/alyaa17/github-stats-transparent/blob/output/generated/overview.svg?raw=true
-![Most Used Languages]https://github.com/alyaa17/github-stats-transparent/blob/output/generated/languages.svg?raw=true
-
+![Most Used Languages](https://raw.githubusercontent.com/alyaa17/github-stats-transparent/output/generated/languages.svg)
 
 
 ---
