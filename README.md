@@ -18,5 +18,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
   </p>
 
+  
+![Alyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyaa17&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
 ---
 </div>
