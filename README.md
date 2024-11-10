@@ -16,12 +16,13 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64" alt="PostgreSQL" /></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" width="64" height="64" alt="PySpark" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/docker.png" width="64" height="64" alt="Docker" /></a>
-  </p>
+</p>
 
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=alyaa17&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-![Metrics](https://metrics.lecoq.io/alyaa17?template=classic&config.timezone=Europe%2FMoscow)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyaa17&layout=compact&langs_count=6&hide_border=true)
+## 📊 Github Stats
+![Overview]https://github.com/alyaa17/github-stats-transparent/blob/output/generated/overview.svg?raw=true
+![Most Used Languages]https://github.com/alyaa17/github-stats-transparent/blob/output/generated/languages.svg?raw=true
+
 
 
 ---
